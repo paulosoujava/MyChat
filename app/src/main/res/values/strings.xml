@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Chat</string>
+    <string name="password">Senha</string>
+    <string name="email">email</string>
+    <string name="enter">Entrar</string>
+    <string name="account">Novo usuário, clique aqui</string>
+    <string name="create_account">Novo Usuário</string>
+    <string name="photo">Foto</string>
+    <string name="contacts">Contatos</string>
+    <string name="logout">Sair</string>
+    <string name="hello">hello</string>
+    <string name="send">enviar</string>
+</resources>
